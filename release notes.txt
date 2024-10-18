@@ -1,0 +1,2 @@
+23.0.0.37
+    - Change trigger of Sales Order Approval from Posting to Send Approval

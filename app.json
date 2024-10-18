@@ -1,0 +1,40 @@
+{
+  "id": "71c63552-8f18-474b-804d-d28f63546b1b",
+  "name": "Email Automation",
+  "publisher": "EricoUK",
+  "version": "23.0.0.37",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "b830ef47-c998-4e30-bb03-52be437f36f6",
+      "publisher": "Programekonomi Svenska AB",
+      "name": "SweBase",
+      "version": "23.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ], 
+  "target": "Cloud"
+}

@@ -1,0 +1,10 @@
+*.app
+**/launch.json
+**/rad.json
+**/*.g.xlf
+**/*.rad
+*/.alcache/*
+*/.altemplates/*
+*/.vscode/*
+*/.zip/*
+
