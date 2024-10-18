@@ -6,5 +6,5 @@
 */.alcache/*
 */.altemplates/*
 */.vscode/*
-*/.zip/*
+*.zip
 
